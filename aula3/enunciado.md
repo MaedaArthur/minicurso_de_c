@@ -56,6 +56,33 @@ Corrente mínima: 1.60A
 Corrente média: 1.80A
 ```
 
+### Exemplo de Execução Completo
+
+**Entrada (texto que você digita):**
+```
+100
+50
+5
+-5
+```
+
+**Saída esperada (o que o programa imprime):**
+```
+Digite a tensão inicial (V): Digite a resistência total (Ω): Digite quantas medições serão realizadas: Digite a variação de tensão por intervalo (V): 
+
+=== Análise de Corrente Elétrica ===
+Med. 1: V = 100.00V → I = 2.00A
+Med. 2: V = 95.00V → I = 1.90A
+Med. 3: V = 90.00V → I = 1.80A
+Med. 4: V = 85.00V → I = 1.70A
+Med. 5: V = 80.00V → I = 1.60A
+
+=== Estatísticas ===
+Corrente máxima: 2.00A
+Corrente mínima: 1.60A
+Corrente média: 1.80A
+```
+
 ## Requisitos Obrigatórios
 
 - Utilizar **pelo menos um tipo de loop** (`for`, `while` ou `do-while`)

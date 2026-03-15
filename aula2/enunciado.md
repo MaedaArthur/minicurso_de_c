@@ -94,6 +94,20 @@ ACESSO NEGADO
 
 Justificativa: Tem 15 anos, o que é menor que 16.
 
+### Exemplo de Execução Completo
+
+**Entrada (texto que você digita):**
+```
+17
+3
+2
+```
+
+**Saída esperada (o que o programa imprime):**
+```
+Digite a idade: Digite o nível de acesso: Digite o código do turno: 
+ACESSO PERMITIDO
+```
 
 ---
 
@@ -105,3 +119,11 @@ Seu programa **obrigatoriamente** deve utilizar:
 - Operadores lógicos (`&&`, `||`)
 - Estruturas de decisão (`if`, `else if`, `else`)
 - Um `switch` para tratar os turnos
+
+## Desafios Adicionais (Opcional)
+
+- Implementar horário específico (hora do dia) para validação mais precisa
+- Calcular tempo de acesso permitido (quantas horas a pessoa pode ficar)
+- Implementar sistema de pontuação de segurança (registrar acessos negados)
+- Validar múltiplas tentativas de acesso e gerar relatório
+- Adicionar logs detalhados de cada acesso (data, hora, resultado)

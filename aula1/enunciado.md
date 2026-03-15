@@ -39,13 +39,18 @@ Crie um programa em **C** que:
 - Utilize **scanf** para ler os dados do usuário.
 - Utilize **printf** para mostrar os resultados.
 
-## Exemplo de execução
+## Exemplo de Execução
 
-```bash
+**Entrada (texto que você digita):**
+```
+8.5
+15
+4.00
+```
 
-Digite a distancia da corrida (km): 8.5
-Digite o tempo da corrida (min): 15
-Digite a tarifa base: 4.00
+**Saída esperada (o que o programa imprime):**
+```
+Digite a distancia da corrida (km): Digite o tempo da corrida (min): Digite a tarifa base: 
 
 Resumo da corrida
 Distancia: 8.50 km
@@ -53,3 +58,11 @@ Tempo: 15 minutos
 Tarifa base: R$ 4.00
 Valor total da corrida: R$ 29.75
 ```
+
+## Desafios Adicionais (Opcional)
+
+- Implementar desconto de 10% para corridas acima de 20km
+- Implementar tarifa dinâmica (aumentar tarifa em 50% entre 22:00 e 06:00)
+- Calcular gorjeta padrão (10%, 15%, 20%) e exibir valor com gorjeta
+- Validar que distância e tempo são positivos
+- Calcular velocidade média da corrida (km/h)
