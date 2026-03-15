@@ -61,42 +61,6 @@ Sensores acima do limite: 2
 Ação recomendada: Reduzir carga ou aumentar refrigeração.
 ```
 
-### Exemplo de Execução Completo
-
-**Entrada (texto que você digita):**
-```
-6
-80
-65
-72
-85
-78
-91
-70
-```
-
-**Saída esperada (o que o programa imprime):**
-```
-Digite o número de sensores: Digite a temperatura máxima permitida (°C): Digite a temperatura do sensor 1 (°C): Digite a temperatura do sensor 2 (°C): Digite a temperatura do sensor 3 (°C): Digite a temperatura do sensor 4 (°C): Digite a temperatura do sensor 5 (°C): Digite a temperatura do sensor 6 (°C): 
-
-=== Relatório de Monitoramento ===
-Sensor 1: 65.00°C [OK]
-Sensor 2: 72.00°C [OK]
-Sensor 3: 85.00°C [CRÍTICO!]
-Sensor 4: 78.00°C [OK]
-Sensor 5: 91.00°C [CRÍTICO!]
-Sensor 6: 70.00°C [OK]
-
-=== Estatísticas ===
-Temperatura máxima: 91.00°C (Sensor 5)
-Temperatura mínima: 65.00°C (Sensor 1)
-Temperatura média: 76.83°C
-Sensores acima do limite: 2
-
-⚠️  AVISO DE SEGURANÇA: 2 sensores detectaram temperatura crítica!
-Ação recomendada: Reduzir carga ou aumentar refrigeração.
-```
-
 ## Requisitos Obrigatórios
 
 - Utilizar um **array de floats** para armazenar as temperaturas

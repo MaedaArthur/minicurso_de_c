@@ -49,59 +49,10 @@ Onde:
 
 ## Exemplo de Execução
 
-**Entrada:**
 ```bash
 Digite V, I e ângulo da fase A: 220 10 30
 Digite V, I e ângulo da fase B: 220 10 30
 Digite V, I e ângulo da fase C: 220 10 30
-```
-
-**Saída esperada:**
-```
-=== Análise de Potência - Sistema Trifásico ===
-
---- Fase A ---
-Tensão: 220.00V | Corrente: 10.00A | Ângulo: 30.00°
-Potência Ativa: 1904.88W
-Potência Reativa: 1100.00 VAR
-Potência Aparente: 2200.00 VA
-Fator de Potência: 0.866 (Indutor)
-
---- Fase B ---
-Tensão: 220.00V | Corrente: 10.00A | Ângulo: 30.00°
-Potência Ativa: 1904.88W
-Potência Reativa: 1100.00 VAR
-Potência Aparente: 2200.00 VA
-Fator de Potência: 0.866 (Indutor)
-
---- Fase C ---
-Tensão: 220.00V | Corrente: 10.00A | Ângulo: 30.00°
-Potência Ativa: 1904.88W
-Potência Reativa: 1100.00 VAR
-Potência Aparente: 2200.00 VA
-Fator de Potência: 0.866 (Indutor)
-
-=== Totais do Sistema ===
-Potência Ativa Total: 5714.64W
-Potência Reativa Total: 3300.00 VAR
-Potência Aparente Total: 6600.00 VA
-Fator de Potência Médio: 0.866
-
-⚠️  Recomendação: Instalar capacitores para compensação de 1909.73 VAR
-```
-
-### Exemplo de Execução Completo
-
-**Entrada (texto que você digita):**
-```
-220 10 30
-220 10 30
-220 10 30
-```
-
-**Saída esperada (o que o programa imprime):**
-```
-Digite V, I e ângulo da fase A: Digite V, I e ângulo da fase B: Digite V, I e ângulo da fase C: 
 
 === Análise de Potência - Sistema Trifásico ===
 

@@ -60,52 +60,12 @@ Uma das seguintes mensagens:
 - `Turno invalido`
 
 
-## Exemplos
+## Exemplo de Execução
 
-### Exemplo 1
-
-**Entrada:**
-```
-17
-3
-2
-```
-
-**Saída:**
-```
-ACESSO PERMITIDO
-```
-
-Justificativa: Tem 17 anos, nível de acesso 3 (≥3), turno 2 (não é noite).
-
-### Exemplo 2
-
-**Entrada:**
-```
-15
-5
-1
-```
-
-**Saída:**
-```
-ACESSO NEGADO
-```
-
-Justificativa: Tem 15 anos, o que é menor que 16.
-
-### Exemplo de Execução Completo
-
-**Entrada (texto que você digita):**
-```
-17
-3
-2
-```
-
-**Saída esperada (o que o programa imprime):**
-```
-Digite a idade: Digite o nível de acesso: Digite o código do turno: 
+```bash
+Digite a idade: 17
+Digite o nível de acesso: 3
+Digite o código do turno: 2
 ACESSO PERMITIDO
 ```
 
