@@ -1,0 +1,48 @@
+# Arquivos compilados
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+
+# Executáveis
+aula1/solucao
+aula2/solucao
+aula3/solucao
+aula4/solucao
+aula5/solucao
+*.exe
+*.out
+*.app
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Diretórios de build
+build/
+bin/
+obj/
+dist/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.eclipse
+.project
+.settings/
+
+# Debug
+*.dSYM/
+*.su
+*.gch
+
+# Outros
+core
+core.*
+.clang_format
