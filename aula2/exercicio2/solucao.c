@@ -12,7 +12,7 @@ int main(void) {
         return 0;
     }
 
-    if (idade < 12) {
+    if (1) {
         if (tipo_cartao == 1 || tipo_cartao == 2) {
             printf("ACESSO PERMITIDO\n");
         } else if (horario_acesso == 1 || horario_acesso == 2) {

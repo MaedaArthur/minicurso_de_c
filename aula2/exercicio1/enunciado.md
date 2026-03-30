@@ -35,7 +35,7 @@ Acesso depende apenas do nível de acesso:
 
 | Nível de Acesso | Permissão |
 |--|--|
-| 1 | Apenas manhã (turno 1) |
+| 1 | Apenas manhã (turno x) |
 | 2 | Manhã e tarde (turnos 1 e 2) |
 | 3 ou mais | Qualquer turno |
 

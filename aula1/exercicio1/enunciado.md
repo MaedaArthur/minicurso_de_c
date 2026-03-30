@@ -50,7 +50,11 @@ Crie um programa em **C** que:
 
 **Saída esperada (o que o programa imprime):**
 ```
-Digite a distancia da corrida (km): Digite o tempo da corrida (min): Digite a tarifa base: 
+Digite a distancia da corrida (km): 8.5
+Digite o tempo da corrida (min): 15
+Digite a tarifa base: 4.00
+
+
 
 Resumo da corrida
 Distancia: 8.50 km
