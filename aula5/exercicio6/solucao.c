@@ -6,7 +6,7 @@ void converter_adc(int raw, float *tensao, float *temperatura) {
     *temperatura = *tensao * 100.0;
 }
 
-// Exibe os resultados de uma leitura formatada
+// Exibe os resultados de uma leitura formatados
 void exibir_leitura(int indice, int raw, float tensao, float temperatura) {
     printf("Amostra %d: ADC=%-4d | Tensao=%.3fV | Temperatura=%.1f C\n",
            indice, raw, tensao, temperatura);
