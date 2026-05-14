@@ -63,7 +63,7 @@ taxa base: R$ 4.00
 Valor total da corrida: R$ 29.75
 ```
 
-## Desafios Adicionais (Opcional)
+## Desafios (extra)
 
 - Implementar desconto de 10% para corridas acima de 20km
 - Implementar taxa dinâmica (aumentar taxa em 50% entre 22:00 e 06:00)
