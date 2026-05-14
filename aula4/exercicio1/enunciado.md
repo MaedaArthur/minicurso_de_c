@@ -72,7 +72,7 @@ Ação recomendada: Reduzir carga ou aumentar refrigeração.
 - Validar que o número de sensores é positivo
 - Usar `printf` e `scanf` para entrada/saída
 
-## Desafios Adicionais (Opcional)
+## Desafios (extra)
 
 - Implementar um sistema de alerta com níveis (Verde: < 70°C, Amarelo: 70-80°C, Vermelho: > 80°C)
 - Calcular quantos sensores estão em "zona de alerta" (75-80°C)
