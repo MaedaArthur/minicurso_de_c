@@ -7,6 +7,6 @@ int main(void) {
         {7,8,9}
     };
 
-    printf("%d", a[1][1]);
+    printf("%d", a[0][0]);
     return 0;
 }
