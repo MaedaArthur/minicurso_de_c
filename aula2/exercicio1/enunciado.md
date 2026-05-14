@@ -80,7 +80,7 @@ Seu programa **obrigatoriamente** deve utilizar:
 - Estruturas de decisão (`if`, `else if`, `else`)
 - Um `switch` para tratar os turnos
 
-## Desafios Adicionais (Opcional)
+## Desafios (extra)
 
 - Implementar horário específico (hora do dia) para validação mais precisa
 - Calcular tempo de acesso permitido (quantas horas a pessoa pode ficar)
