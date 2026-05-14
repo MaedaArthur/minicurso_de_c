@@ -1,6 +1,6 @@
 # 🎓 Minicurso de Programação em C
 
-Bem-vindo ao **Minicurso de Programação em Linguagem C**! Este repositório contém material educacional completo com enunciados de exercícios desafiadores e soluções práticas.
+Bem-vindo ao **Minicurso de Programação em Linguagem C**! Este repositório contém material educacional completo com enunciados de exercícios e soluções práticas, incluindo desafios e soluções alternativas para alguns exercícios
 
 ## 📋 Sobre o Repositório
 
