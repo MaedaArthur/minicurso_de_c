@@ -1,6 +1,6 @@
 # Exercício 6 – Leitura de Sensor de Temperatura via ADC
 
-Microcontroladores como o STM32 e o Arduino possuem um conversor analógico-digital (ADC) que transforma tensões analógicas em valores inteiros. Um uso muito comum é conectar um sensor de temperatura LM35, que gera **10 mV por grau Celsius**.
+Microcontroladores como o STM32 e o Arduino possuem um conversor analógico-digital (ADC) que transforma tensões analógicas em valores inteiros. Um uso muito comum é conectar um sensor de temperatura LM35, que gera **10 mV a cada grau Celsius**.
 
 Com um ADC de **10 bits** e tensão de referência de **5V**, a conversão funciona assim:
 
