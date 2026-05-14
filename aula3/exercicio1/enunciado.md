@@ -66,7 +66,7 @@ Corrente média: 1.80A
 - Validar se a resistência é maior que zero (evitar divisão por zero)
 - Usar `printf` e `scanf` para entrada/saída
 
-## Desafios Adicionais (Opcional)
+## Desafios (extra)
 
 - Implementar validação de entrada (tensão e resistência não negativas)
 - Identificar o intervalo de tempo em que há maior oscilação de corrente
